@@ -1,0 +1,13 @@
+vwap
+
+
+
+
+https://blog.csdn.net/u011218867/article/details/118242517
+
+all codes 
+
+python -m pip install pandas.ta -i https://pypi.douban.com/simple/
+
+
+lack of DMI MTM AVL VOL STOCHRSI EMV WR CCI
